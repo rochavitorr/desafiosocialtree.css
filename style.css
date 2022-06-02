@@ -1,0 +1,42 @@
+
+div {
+    border: 0px solid black; 
+    margin: 0 auto;
+    
+    width: 610px;
+}
+
+#Vitor {
+margin: 200;
+}
+
+h1 {
+    color: #BB99DD;
+    font-family: Poppins;
+    font-weight: 500;
+}
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 66%;
+ }
+.linkt  {
+    
+    border: 1px solid purple;
+    color: #BB99DD;
+    border-radius: 0%;
+    
+}
+.textobotao {
+    font-family: Poppins;
+    font-size: larger;
+}
+
+.icones {
+    border: 0px solid black;
+    justify-content: center;
+    display: flex;
+}
+
+
